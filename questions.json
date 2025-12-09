@@ -1,0 +1,276 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "level": 1,
+      "text": "Какая планета является самой большой в Солнечной системе?",
+      "options": [
+        "Марс",
+        "Юпитер",
+        "Сатурн",
+        "Нептун"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "id": 2,
+      "level": 2,
+      "text": "Какой газ составляет большую часть атмосферы Земли?",
+      "options": [
+        "Кислород",
+        "Углекислый газ",
+        "Азот",
+        "Водород"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "id": 3,
+      "level": 3,
+      "text": "В каком году началась Вторая мировая война?",
+      "options": [
+        "1939",
+        "1941",
+        "1914",
+        "1945"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "id": 4,
+      "level": 4,
+      "text": "Кто написал роман 'Война и мир'?",
+      "options": [
+        "Достоевский",
+        "Чехов",
+        "Толстой",
+        "Пушкин"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "id": 5,
+      "level": 5,
+      "text": "Сколько континентов на Земле?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "id": 6,
+      "level": 6,
+      "text": "Какой элемент имеет химический символ 'Au'?",
+      "options": [
+        "Серебро",
+        "Золото",
+        "Медь",
+        "Алюминий"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "id": 7,
+      "level": 7,
+      "text": "Какая река является самой длинной в мире?",
+      "options": [
+        "Нил",
+        "Амазонка",
+        "Янцзы",
+        "Миссисипи"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "id": 8,
+      "level": 8,
+      "text": "Кто изобрёл телефон?",
+      "options": [
+        "Эдисон",
+        "Тесла",
+        "Белл",
+        "Маркони"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "id": 9,
+      "level": 9,
+      "text": "Какая самая маленькая страна в мире?",
+      "options": [
+        "Монако",
+        "Ватикан",
+        "Сан-Марино",
+        "Лихтенштейн"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "id": 10,
+      "level": 10,
+      "text": "В каком году человек впервые высадился на Луну?",
+      "options": [
+        "1965",
+        "1969",
+        "1972",
+        "1975"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "id": 11,
+      "level": 11,
+      "text": "Какое животное является символом WWF?",
+      "options": [
+        "Тигр",
+        "Панда",
+        "Слон",
+        "Белый медведь"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "id": 12,
+      "level": 12,
+      "text": "Сколько костей в теле взрослого человека?",
+      "options": [
+        "196",
+        "206",
+        "216",
+        "186"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "id": 13,
+      "level": 13,
+      "text": "Какой город является столицей Австралии?",
+      "options": [
+        "Сидней",
+        "Мельбурн",
+        "Канберра",
+        "Брисбен"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "id": 14,
+      "level": 14,
+      "text": "Кто написал оперу 'Волшебная флейта'?",
+      "options": [
+        "Бах",
+        "Моцарт",
+        "Бетховен",
+        "Вагнер"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "id": 15,
+      "level": 15,
+      "text": "Какой химический элемент имеет наибольший атомный номер в природе?",
+      "options": [
+        "Уран",
+        "Плутоний",
+        "Торий",
+        "Радий"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    }
+  ],
+  "prize_ladder": [
+    {
+      "level": 1,
+      "amount": 500,
+      "safe_haven": false
+    },
+    {
+      "level": 2,
+      "amount": 1000,
+      "safe_haven": false
+    },
+    {
+      "level": 3,
+      "amount": 2000,
+      "safe_haven": false
+    },
+    {
+      "level": 4,
+      "amount": 3000,
+      "safe_haven": false
+    },
+    {
+      "level": 5,
+      "amount": 5000,
+      "safe_haven": true
+    },
+    {
+      "level": 6,
+      "amount": 10000,
+      "safe_haven": false
+    },
+    {
+      "level": 7,
+      "amount": 15000,
+      "safe_haven": false
+    },
+    {
+      "level": 8,
+      "amount": 25000,
+      "safe_haven": false
+    },
+    {
+      "level": 9,
+      "amount": 50000,
+      "safe_haven": false
+    },
+    {
+      "level": 10,
+      "amount": 100000,
+      "safe_haven": true
+    },
+    {
+      "level": 11,
+      "amount": 200000,
+      "safe_haven": false
+    },
+    {
+      "level": 12,
+      "amount": 400000,
+      "safe_haven": false
+    },
+    {
+      "level": 13,
+      "amount": 800000,
+      "safe_haven": false
+    },
+    {
+      "level": 14,
+      "amount": 1500000,
+      "safe_haven": false
+    },
+    {
+      "level": 15,
+      "amount": 3000000,
+      "safe_haven": false
+    }
+  ]
+}
