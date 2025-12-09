@@ -60,7 +60,7 @@ python main.py
 - Расширение базы вопросов и поддержка нескольких языков.
 - Настройки оформления (темы, шрифты, размеры окна).
 
-![ millionaire-game-v3]( https://github.com/igormikt/millionaire-game-v3/raw/main/images/img02.jpg )
+![ millionaire-game-v3]( https://github.com/igormikt/millionaire-game-v3/raw/main/images/img0.jpg )
 
 ![ millionaire-game-v3]( https://github.com/igormikt/millionaire-game-v3/raw/main/images/img03.jpg )
 
