@@ -1,0 +1,22 @@
+# Виртуальное окружение
+.venv/
+venv/
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Логи и временные файлы
+*.log
+*.tmp
+*.swp
+
+# Файлы настроек IDE (PyCharm)
+.idea/
+*.iml
+
+# Системные файлы
+.DS_Store
+Thumbs.db
