@@ -62,9 +62,9 @@ python main.py
 
 ![ millionaire-game-v3]( https://github.com/igormikt/millionaire-game-v3/raw/main/images/img02.jpg )
 
+
 ![ millionaire-game-v3]( https://github.com/igormikt/millionaire-game-v3/raw/main/images/img03.jpg )
 
-![ millionaire-game-v3]( https://github.com/igormikt/millionaire-game-v3/raw/main/images/img0.jpg )
 
 Если у вас есть идеи по улучшению игры — присылайте предложения или открывайте Pull Request.
 
