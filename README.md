@@ -1,3 +1,5 @@
+![ millionaire-game-v3]( https://github.com/igormikt/millionaire-game-v3/raw/main/images/img01.png )
+
 # Игра «Кто хочет стать миллионером?» на Python (Tkinter)
 
 Проект — настольная версия знаменитого телешоу «Кто хочет стать миллионером?» с современным графическим интерфейсом на Tkinter.  
